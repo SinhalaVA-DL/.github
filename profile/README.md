@@ -1,9 +1,41 @@
-##Deep Learning-based Virtual Assistant in Sinhala Language - Phase II
+# Deep Learning-based Virtual Assistant in Sinhala Language 
 
-Project Description
-Recent years have witnessed a remarkable growth in the use of Machine/Deep learning to enhance the business and end-user experience using virtual assistants varying from simple question answering agents to fully-edged AI agents like Amazon Alexa [1, 3]. The use of virtual assistants helps businesses to reduce the costs spent on human customer support operators while significantly enhancing the end-user experience by providing quick and convenient solutions across multiple services [4]. State of the virtual art assistants are powered with appropriate deep learning-based natural language techniques such as recurrent neural networks and transformers [5, 6, 2].
+## Project Description
+
+Recent years have witnessed a remarkable growth in the use of Machine/Deep learning to enhance the business and end-user experience using virtual assistants varying from simple question answering agents to fully-edged AI agents like Amazon Alexa. The use of virtual assistants helps businesses to reduce the costs spent on human customer support operators while significantly enhancing the end-user experience by providing quick and convenient solutions across multiple services. State of the virtual art assistants are powered with appropriate deep learning-based natural language techniques such as recurrent neural networks and transformers.
 
 However, most of the existing virtual assistants are based on English language and are not catered for the sentiments of the Sri Lankan service sector. Moreover, they fail to capture and respond to the unique characteristics in Sinhala/Singlish languages. In order to address these issues, in this project, we aim to develop a deep learning-based virtual assistant in Sinhala language scrutinizing the unique requirements and characteristics of Sri Lankan services.
+
+In the first phase of this project, we were able to develop a deep learning framework that can identify the context of the question and provide appropriate answers. In this phase, we expect to further enhance the development in the following sections.
+
+### Project Phases
+
+- i) Integrate voice to text and text to voice translation
+- ii) Improve the framework with hierarchical transformer model and rule based pre and post processing expert system
+- iii) Connect the virtual assistant to IoT smart home network and operate IoT devices using voice commands
+- iv) Develop the system call functionalities that help the user to execute day to day operations such as retrieve time, weather information, make calls and appointment, etc. via the virtual assistant
+
+### Technologies
+- Python
+- Deep Learning Frameworks (PyTorch, TensorFlow)
+- Natural Language Processing Tools (spaCy, NLTK)
+- Rule-Based Systems
+- IoT Technologies
+
+
+### Team
+- Project Manager
+- Data Scientist
+- NLP Engineer
+- Software Engineer
+- IoT Engineer
+
+### Deliverables
+- Deep Learning-based Virtual Assistant in Sinhala Language
+- Documentations (API documentation, Technical documentation, User manuals)
+- Source code
+- Dataset
+
 
 <!--
 repo name: BEST-README
@@ -17,12 +49,13 @@ email: example@email.com
 -->
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] 
+ -->
 
 
 <!-- PROJECT LOGO -->
@@ -63,29 +96,6 @@ email: example@email.com
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](assets/ss.png)
-
-${There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.}
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 
 
@@ -180,29 +190,3 @@ Project Link: [LINK](LINK)
 [license-url]: https://github.com/BEST-README/ oGranny/blob/master/LICENSE.txt
 [product-screenshot]: assets/ss.png
 
-In the first phase of this project, we were able to develop a deep learning framework that can identify the context of the question and provide appropriate answers. In this phase, we expect to further enhance the development in the following sections.
-
-Project Phases
-Phase II
-i) Integrate voice to text and text to voice translation
-ii) Improve the framework with hierarchical transformer model and rule based pre and post processing expert system
-iii) Connect the virtual assistant to IoT smart home network and operate IoT devices using voice commands
-iv) Develop the system call functionalities that help the user to execute day to day operations such as retrieve time, weather information, make calls and appointment, etc. via the virtual assistant
-
-Technologies
-Python
-Deep Learning Frameworks (PyTorch, TensorFlow)
-Natural Language Processing Tools (spaCy, NLTK)
-Rule-Based Systems
-IoT Technologies
-Team
-Project Manager
-Data Scientist
-NLP Engineer
-Software Engineer
-IoT Engineer
-Deliverables
-Deep Learning-based Virtual Assistant in Sinhala Language
-Documentations (API documentation, Technical documentation, User manuals)
-Source code
-Dataset
