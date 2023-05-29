@@ -1,5 +1,21 @@
 # Deep Learning-based Virtual Assistant in Sinhala Language 
 
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Project Description](#project-description)
+* [Getting Started](#getting-started)
+    * [Prerequisites](#prerequisites)
+    * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
 ## Project Description
 
 Recent years have witnessed a remarkable growth in the use of Machine/Deep learning to enhance the business and end-user experience using virtual assistants varying from simple question answering agents to fully-edged AI agents like Amazon Alexa. The use of virtual assistants helps businesses to reduce the costs spent on human customer support operators while significantly enhancing the end-user experience by providing quick and convenient solutions across multiple services. State of the virtual art assistants are powered with appropriate deep learning-based natural language techniques such as recurrent neural networks and transformers.
@@ -7,6 +23,8 @@ Recent years have witnessed a remarkable growth in the use of Machine/Deep learn
 However, most of the existing virtual assistants are based on English language and are not catered for the sentiments of the Sri Lankan service sector. Moreover, they fail to capture and respond to the unique characteristics in Sinhala/Singlish languages. In order to address these issues, in this project, we aim to develop a deep learning-based virtual assistant in Sinhala language scrutinizing the unique requirements and characteristics of Sri Lankan services.
 
 In the first phase of this project, we were able to develop a deep learning framework that can identify the context of the question and provide appropriate answers. In this phase, we expect to further enhance the development in the following sections.
+
+![System-arc](https://github.com/Deep-Learnng-Chatbot-Final-Year-Project/.github/assets/65262773/e75e15fe-168d-478d-b6f1-39fd63f0efa7)
 
 ### Project Phases
 
@@ -37,64 +55,10 @@ In the first phase of this project, we were able to develop a deep learning fram
 - Dataset
 
 
-<!--
-repo name: BEST-README
-description: An awesome README template to jumpstart your projects!
-github name:  oGranny
-link: LINK
-logo path: assets/logo.png
-screenshot: assets/ss.png
-twitter: your_username
-email: example@email.com
--->
-
-<!-- PROJECT SHIELDS -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] 
- -->
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-    <a href="LINK">
-        <img src="assets/logo.png" alt="Logo" width="80" height="80">
-    </a>
-    <h3 align="center">LINK</h3>
-    <p align="center">
-        BEST-README
-        <br />
-        <a href="LINK"><strong>Explore the docs �</strong></a>
-        <br />
-        <br />
-        <a href="//github.com/BEST-README/ oGranny">View Demo</a>
-        �
-        <a href="LINK/issues">Report Bug</a>
-        �
-        <a href="LINK/issues">Request Feature</a>
-    </p>
-</p>
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
 
-* [About the Project](#about-the-project)
-    * [Built With](#built-with)
-* [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -115,19 +79,7 @@ npm install npm@latest -g
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
 
 
 
