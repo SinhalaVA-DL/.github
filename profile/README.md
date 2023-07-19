@@ -26,6 +26,11 @@ In the first phase of this project, we were able to develop a deep learning fram
 
 ![System-arc](https://github.com/Deep-Learnng-Chatbot-Final-Year-Project/.github/assets/65262773/e75e15fe-168d-478d-b6f1-39fd63f0efa7)
 
+#### Transformer Architecture
+
+![Screenshot 2023-07-19 211922](https://github.com/Deep-Learnng-Chatbot-Final-Year-Project/.github/assets/65262773/4a68b037-f962-484f-88c9-cadd04bde287)
+
+
 ### Project Phases
 
 - i) Integrate voice to text and text to voice translation
