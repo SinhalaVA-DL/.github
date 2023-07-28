@@ -1,4 +1,4 @@
-# Deep Learning-based Virtual Assistant in Sinhala Language 
+# Deep Learning-based Virtual Assistant in Sinhala Language Using Transformer Model based Hierarchical Framework
 
 
 <!-- TABLE OF CONTENTS -->
