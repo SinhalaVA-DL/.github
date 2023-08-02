@@ -22,8 +22,6 @@ Recent years have witnessed a remarkable growth in the use of Machine/Deep learn
 
 However, most of the existing virtual assistants are based on English language and are not catered for the sentiments of the Sri Lankan service sector. Moreover, they fail to capture and respond to the unique characteristics in Sinhala/Singlish languages. In order to address these issues, in this project, we aim to develop a deep learning-based virtual assistant in Sinhala language scrutinizing the unique requirements and characteristics of Sri Lankan services.
 
-In the first phase of this project, we were able to develop a deep learning framework that can identify the context of the question and provide appropriate answers. In this phase, we expect to further enhance the development in the following sections.
-
 ![System-arc](https://github.com/Deep-Learnng-Chatbot-Final-Year-Project/.github/assets/65262773/e75e15fe-168d-478d-b6f1-39fd63f0efa7)
 
 #### Transformer Architecture
